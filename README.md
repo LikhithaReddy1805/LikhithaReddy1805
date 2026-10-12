@@ -4,7 +4,7 @@
 
 📍 Bengaluru, Karnataka, India  
 📧 likhithab205@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/likhitha-reddy-b) | 💻 [GitHub](https://github.com/LikhithaReddy1805)
+🔗 [LinkedIn](https://www.linkedin.com/in/likhitha-reddy-b/) | 💻 [GitHub](https://github.com/LikhithaReddy1805)
 
 ---
 
