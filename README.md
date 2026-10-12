@@ -1,81 +1,131 @@
-# 💫 Bayathatha Gari Likhitha Reddy
+# Hi, I'm Bayathatha Gari Likhitha Reddy 👋
 
-**Aspiring Software Developer** | **Full-Stack Developer in Progress** | **Enthusiastic Tech Learner**  
-📍 Bengaluru, India | 📧 likhithab205@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/likhitha-reddy-b-lr) | 💻 [GitHub](https://github.com/LikhithaReddy1805)
+### Computer Science Engineer | Frontend Developer | Software Development Enthusiast
 
----
-
-## 🧠 About Me
-
-Hello! I’m **Likhitha Reddy**, a Computer Science Engineering undergraduate at **JSS Academy of Technical Education, Bengaluru**. With a strong foundation in programming, problem-solving, and web development, I'm passionate about building scalable and user-centric software applications.
-
-Currently, I'm sharpening my skills in **software development** and **full-stack engineering**, with a focus on delivering clean, efficient, and maintainable code across front-end and back-end technologies.
+📍 Bengaluru, Karnataka, India  
+📧 likhithab205@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/likhitha-reddy-b) | 💻 [GitHub](https://github.com/LikhithaReddy1805)
 
 ---
 
-## 💡 Tech Skills
+## 💫 About Me
 
-### ✅ Existing Skills
+I'm a Computer Science and Engineering graduate from **JSS Academy of Technical Education, Bengaluru**, with a CGPA of **9.12/10**.
 
-- **Programming Languages:** Java, Python, C, HTML/CSS, MySQL  
-- **Tools & Platforms:** VS Code, GitHub, Google Cloud Console, Canva  
-- **Technologies & Frameworks:** Linux, MongoDB, Tkinter, OpenCV, Scikit-learn, AWS Polly  
+I have hands-on experience in frontend web development through my internship at Edunet Foundation, where I developed responsive web interfaces using HTML5, CSS3, and JavaScript.
 
-### 🚀 Currently Learning
+I enjoy building practical applications, solving problems, and exploring technologies that help turn ideas into working solutions. I'm interested in software engineering, web development, AI-powered applications, and continuous learning through hands-on projects.
 
-- **Frontend:** React.js, JavaScript, Bootstrap  
-- **Backend:** Node.js, Express.js  
-- **DevOps & Cloud:** Docker, Kubernetes, AWS (EC2, S3), GCP  
-- **Others:** REST APIs, Authentication, Web Hosting, Version Control  
-- **Advanced Topics:** Full-stack app architecture, Deployment pipelines
+- 💻 Experience in frontend web development
+- 🚀 Interested in building real-world software products
+- 🤖 Exploring artificial intelligence and machine learning
+- 🧩 Practicing data structures and algorithms
+- 📍 Open to software development opportunities in Bengaluru
 
 ---
 
-## 🛠️ Projects
+## 🧰 Technical Skills
 
-### 🔊 Text-to-Speech Converter using AWS Polly
-> *Python · AWS Polly (Boto3) · Tkinter*
+**Programming Languages:** Java, C, Python
 
-- Built a desktop GUI tool to convert text to speech using Amazon Polly’s neural voice engine.  
-- Implemented real-time synthesis and efficient audio file handling with temporary storage.  
+**Web Technologies:** HTML5, CSS3, JavaScript, REST APIs, JSON
+
+**Databases:** SQL, Firebase Firestore
+
+**Frameworks & Libraries:** Flutter, Tkinter, OpenCV, Scikit-learn
+
+**Cloud & APIs:** AWS Polly (Boto3), Firebase, Google Maps API, OpenWeatherMap API
+
+**Tools:** Git, GitHub, VS Code, Android Studio
+
+**Core Subjects:** Data Structures and Algorithms, Object-Oriented Programming, Computer Networks, DBMS, Operating Systems, Cloud Computing
+
+---
+
+## 💼 Experience
+
+### Frontend Web Development Intern — Edunet Foundation (AICTE Internship)
+*August 2025 – October 2025 | Remote*
+
+- Developed responsive web interfaces using HTML5, CSS3, and JavaScript.
+- Built reusable UI components to improve user experience across devices.
+- Improved webpage responsiveness and functionality through JavaScript-based interactions.
+
+---
+
+## 🚀 Projects
+
+### ♻️ TrashGo — Garbage Collection Monitoring Application
+**Tech Stack:** Flutter, Firebase, Google Maps API
+
+- Developed a Flutter-based waste collection and monitoring application with separate Resident, Driver, and Admin modules.
+- Integrated Firebase and Google Maps APIs for secure authentication and real-time location tracking.
+- Implemented live truck tracking, route visualization, and resident notifications to improve waste collection efficiency.
+
+### 🌦️ Responsive Weather Dashboard
+**Tech Stack:** HTML5, CSS3, JavaScript, OpenWeatherMap API, Geolocation API
+
+- Built a responsive weather dashboard using HTML, CSS, and JavaScript.
+- Integrated weather and geolocation APIs to display real-time weather information based on user location.
+- Used JavaScript Fetch API and asynchronous calls for dynamic data rendering.
+
+### 🔊 Text-to-Speech Converter Using AWS Polly
+**Tech Stack:** Python, AWS Polly, Boto3, Tkinter
+
+- Developed a desktop application for text-to-speech conversion using Python, Tkinter, and AWS Polly.
+- Integrated Boto3 for speech synthesis functionality.
+- Added audio playback capabilities to improve the user experience.
 
 ### ✍️ Handwritten Digit Recognition
-> *Python · OpenCV · Scikit-learn · Tkinter*
+**Tech Stack:** Python, OpenCV, Scikit-learn, Tkinter
 
-- Created a GUI application for digit recognition using image preprocessing and ML classification (SVM).  
-- Designed the complete pipeline from image input to prediction and real-time inference.
-
-### ♻️ Smart Garbage Collection & Monitoring System (Ongoing)
-> *Firebase · AWS · GPS · Cloud DB · Tkinter · Android Studio (planned) · Web App (planned)*
-
-- Developing a smart waste tracking system using GPS-enabled trucks and cloud-based monitoring.  
-- Integrating user/admin interfaces for real-time reporting, routing, and bin status tracking.
+- Developed a graphical application for handwritten digit recognition.
+- Trained a Support Vector Machine (SVM) model for handwritten digit classification.
+- Implemented image preprocessing using OpenCV to improve prediction accuracy.
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Training
 
-- **Artificial Intelligence Primer** – Infosys Springboard  
-- **Artificial Intelligence Foundation** – Infosys Springboard  
-- **Introduction to Artificial Intelligence** – LinkedIn Learning  
-- **Generative AI: Introduction and Applications** – Coursera  
-- **Pragati: The Path to the Future** – Infosys Springboard *(Women in Tech Program)*
-
----
-
-## 🎯 Aspirations
-
-I aim to grow as a **Software Developer** and **Full-Stack Engineer**, building real-world solutions that are efficient, user-friendly, and impactful. I’m particularly excited about:
-
-- Designing responsive front-end interfaces and scalable back-end systems  
-- Working on collaborative team projects using Git and Agile practices  
-- Exploring modern cloud services and DevOps workflows for deployment and CI/CD  
-- Solving meaningful problems through technology
-
-In the long run, I aspire to **lead engineering projects** that combine creativity, usability, and performance — contributing to tools that make a difference.
+- Artificial Intelligence Fundamentals — IBM SkillsBuild
+- Generative AI: Introduction and Applications — Coursera
+- TNS India Foundation — Accenture C2TC
+- Pragati: The Path to the Future (Cohort 3) — Infosys Springboard
 
 ---
 
-_Thanks for visiting my GitHub! Feel free to explore my repositories or connect with me._  
-✨ _Let’s build something amazing together!_
+## 🤝 Leadership & Activities
+
+**National Service Scheme (NSS) — Core Committee Volunteer**  
+*2022 – Present*
+
+- Participated in social service and community development initiatives at JSSATEB.
+
+**National Entrepreneurship Challenge (NEC) — Team Member**  
+*2024*
+
+- Collaborated with team members on entrepreneurship and innovation-based activities.
+
+---
+
+## 🎯 Currently Focused On
+
+- Strengthening Java and problem-solving skills.
+- Improving my understanding of data structures and algorithms.
+- Building responsive and user-friendly web applications.
+- Exploring AI-powered applications and automation.
+- Learning through hands-on projects and collaboration.
+
+---
+
+## 🤝 Let's Connect
+
+📧 **Email:** [likhithab205@gmail.com](mailto:likhithab205@gmail.com)
+
+💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/likhitha-reddy-b)
+
+💻 **GitHub:** [Explore my repositories](https://github.com/LikhithaReddy1805)
+
+---
+
+*Learning by building. Growing through every project. 🚀*
