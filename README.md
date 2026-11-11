@@ -1,87 +1,88 @@
 # Hi, I'm Bayathatha Gari Likhitha Reddy 👋
 
-### Computer Science Engineer | Frontend Developer | Software Development Enthusiast
+### Computer Science Graduate | Full-Stack Developer | Software Development Enthusiast
 
 📍 Bengaluru, Karnataka, India  
-📧 likhithab205@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/likhitha-reddy-b-lr/) | 💻 [GitHub](https://github.com/LikhithaReddy1805)
+📧 [likhithab205@gmail.com](mailto:likhithab205@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/likhitha-reddy-b-lr) | 💻 [GitHub](https://github.com/LikhithaReddy1805)
 
 ---
 
 ## 💫 About Me
 
-I'm a Computer Science and Engineering graduate from **JSS Academy of Technical Education, Bengaluru**, with a CGPA of **9.12/10**.
+I'm a Computer Science and Engineering graduate from **JSS Academy of Technical Education, Bengaluru**, with a CGPA of **9.10/10**.
 
-I have hands-on experience in frontend web development through my internship at Edunet Foundation, where I developed responsive web interfaces using HTML5, CSS3, and JavaScript.
+I have experience developing responsive web interfaces through my internship at Edunet Foundation and building full-stack applications, REST APIs, and database-integrated solutions.
 
-I enjoy building practical applications, solving problems, and exploring technologies that help turn ideas into working solutions. I'm interested in software engineering, web development, AI-powered applications, and continuous learning through hands-on projects.
+I'm interested in software engineering, full-stack development, AI/ML, and building scalable applications.
 
-- 💻 Experience in frontend web development
-- 🚀 Interested in building real-world software products
-- 🤖 Exploring artificial intelligence and machine learning
-- 🧩 Practicing data structures and algorithms
-- 📍 Open to software development opportunities in Bengaluru
+- 💻 Interested in full-stack and software development.
+- 🚀 Building practical applications using modern technologies.
+- 🤖 Exploring Generative AI, LLM concepts, and AI/ML fundamentals.
+- 🧩 Strengthening problem-solving and Data Structures and Algorithms.
+- 📍 Open to software development opportunities.
 
 ---
 
 ## 🧰 Technical Skills
 
-**Programming Languages:** Java, C, Python
+**Programming Languages:** Java, Python, JavaScript
 
-**Web Technologies:** HTML5, CSS3, JavaScript, REST APIs, JSON
+**Frontend Technologies:** HTML5, CSS3, Bootstrap, React
 
-**Databases:** SQL, Firebase Firestore
+**Backend Technologies:** Node.js, Express.js, REST APIs
 
-**Frameworks & Libraries:** Flutter, Tkinter, OpenCV, Scikit-learn
+**Databases:** SQL, PostgreSQL, Firebase Firestore
 
-**Cloud & APIs:** AWS Polly (Boto3), Firebase, Google Maps API, OpenWeatherMap API
+**AI/ML:** OpenCV, Scikit-learn, Generative AI Fundamentals, LLM Concepts, Prompt Engineering
 
-**Tools:** Git, GitHub, VS Code, Android Studio
+**Tools:** Git, GitHub, Postman, VS Code
 
-**Core Subjects:** Data Structures and Algorithms, Object-Oriented Programming, Computer Networks, DBMS, Operating Systems, Cloud Computing
+**Core Subjects:** Data Structures and Algorithms, Object-Oriented Programming, DBMS, Computer Networks
 
 ---
 
 ## 💼 Experience
 
 ### Frontend Web Development Intern — Edunet Foundation (AICTE Internship)
+
 *August 2025 – October 2025 | Remote*
 
 - Developed responsive web interfaces using HTML5, CSS3, and JavaScript.
-- Built reusable UI components to improve user experience across devices.
-- Improved webpage responsiveness and functionality through JavaScript-based interactions.
+- Built reusable UI components to improve user experience across different devices.
+- Implemented JavaScript-based interactions and improved webpage responsiveness and functionality.
 
 ---
 
 ## 🚀 Projects
 
-### ♻️ TrashGo — Garbage Collection Monitoring Application
+### 🔄 QFlow – Smart Queue & Appointment Management System
+
+**Tech Stack:** React, Node.js, Express.js, PostgreSQL
+
+- Developing a full-stack application supporting digital token generation and advance appointment booking with role-based user interfaces.
+- Developing REST APIs and integrating PostgreSQL to manage customer details, appointments, and queue information.
+
+### ♻️ TrashGo – Garbage Collection Monitoring Application
+
 **Tech Stack:** Flutter, Firebase, Google Maps API
 
-- Developed a Flutter-based waste collection and monitoring application with separate Resident, Driver, and Admin modules.
-- Integrated Firebase and Google Maps APIs for secure authentication and real-time location tracking.
-- Implemented live truck tracking, route visualization, and resident notifications to improve waste collection efficiency.
-
-### 🌦️ Responsive Weather Dashboard
-**Tech Stack:** HTML5, CSS3, JavaScript, OpenWeatherMap API, Geolocation API
-
-- Built a responsive weather dashboard using HTML, CSS, and JavaScript.
-- Integrated weather and geolocation APIs to display real-time weather information based on user location.
-- Used JavaScript Fetch API and asynchronous calls for dynamic data rendering.
-
-### 🔊 Text-to-Speech Converter Using AWS Polly
-**Tech Stack:** Python, AWS Polly, Boto3, Tkinter
-
-- Developed a desktop application for text-to-speech conversion using Python, Tkinter, and AWS Polly.
-- Integrated Boto3 for speech synthesis functionality.
-- Added audio playback capabilities to improve the user experience.
+- Developed a Flutter application with separate Resident, Driver, and Admin modules for waste collection management.
+- Integrated Firebase and Google Maps APIs for authentication, real-time truck tracking, route visualization, and resident notifications.
 
 ### ✍️ Handwritten Digit Recognition
+
 **Tech Stack:** Python, OpenCV, Scikit-learn, Tkinter
 
-- Developed a graphical application for handwritten digit recognition.
-- Trained a Support Vector Machine (SVM) model for handwritten digit classification.
-- Implemented image preprocessing using OpenCV to improve prediction accuracy.
+- Developed a GUI application using Python and Tkinter, training an SVM model to classify handwritten digits.
+- Applied image preprocessing techniques using OpenCV to prepare handwritten images for classification.
+
+### 🌦️ Responsive Weather Dashboard
+
+**Tech Stack:** HTML5, CSS3, JavaScript, OpenWeatherMap API
+
+- Developed a responsive weather dashboard to display real-time weather information.
+- Integrated OpenWeatherMap and Geolocation APIs using JavaScript Fetch API for dynamic weather data retrieval and rendering.
 
 ---
 
@@ -91,29 +92,44 @@ I enjoy building practical applications, solving problems, and exploring technol
 - Generative AI: Introduction and Applications — Coursera
 - TNS India Foundation — Accenture C2TC
 - Pragati: The Path to the Future (Cohort 3) — Infosys Springboard
+- The Complete Full-Stack Web Development — Udemy
+
+---
+
+## 🎓 Education
+
+**JSS Academy of Technical Education, Bengaluru**
+
+Bachelor of Engineering – Computer Science and Engineering  
+December 2022 – June 2026 | **CGPA: 9.10/10**
+
+**Sri Chaitanya Junior College, Anantapur**
+
+Intermediate Education (MPC)  
+August 2020 – May 2022 | Percentage: 87.3%
 
 ---
 
 ## 🤝 Leadership & Activities
 
 **National Service Scheme (NSS) — Core Committee Volunteer**  
-*2022 – Present*
+*2022 – 2026*
 
 - Participated in social service and community development initiatives at JSSATEB.
 
 **National Entrepreneurship Challenge (NEC) — Team Member**  
 *2024*
 
-- Collaborated with team members on entrepreneurship and innovation-based activities.
+- Collaborated with team members in entrepreneurship and innovation-based activities.
 
 ---
 
 ## 🎯 Currently Focused On
 
 - Strengthening Java and problem-solving skills.
-- Improving my understanding of data structures and algorithms.
-- Building responsive and user-friendly web applications.
-- Exploring AI-powered applications and automation.
+- Improving Data Structures and Algorithms.
+- Developing full-stack applications and REST APIs.
+- Exploring Generative AI and AI-powered applications.
 - Learning through hands-on projects and collaboration.
 
 ---
@@ -122,10 +138,10 @@ I enjoy building practical applications, solving problems, and exploring technol
 
 📧 **Email:** [likhithab205@gmail.com](mailto:likhithab205@gmail.com)
 
-💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/likhitha-reddy-b)
+💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/likhitha-reddy-b-lr)
 
 💻 **GitHub:** [Explore my repositories](https://github.com/LikhithaReddy1805)
 
 ---
 
-*Learning by building. Growing through every project. 🚀*
+⭐ *Always learning, building, and exploring new technologies!*
